@@ -1,0 +1,11 @@
+VERIFICAÇÃO LOCAL — PREMIUM CLEAN
+
+Páginas verificadas: inicial, sete serviços, privacidade e 404.
+Links e arquivos locais: sem referências ausentes.
+Menu móvel, WhatsApp, comparadores, FAQ e modal de vídeo: verificados em navegador automatizado.
+Larguras verificadas: 320px, 390px e 1440px. Sem rolagem horizontal indevida.
+Carregamento das imagens: confirmado após acionamento do carregamento sob demanda.
+Axe WCAG 2 A/AA e 2.1 AA: nenhuma violação automática encontrada na página inicial.
+Lighthouse local móvel: SEO 100, Acessibilidade 100, Boas práticas 100.
+A nota geral de desempenho não foi calculada: o navegador de teste não forneceu a sequência de screenshots exigida pelo Speed Index. Não atribuímos nota de desempenho nem presumimos resultado no site publicado. Repetir PageSpeed Insights após publicação.
+Esses resultados são testes técnicos locais, não garantem posicionamento ou conversão.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lorensatto.github.io/premiumclean/sitemap.xml
