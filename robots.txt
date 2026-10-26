@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://lorensatto.github.io/premiumclean/sitemap.xml
+Sitemap: https://lorensatto.github.io/premiumclean2/sitemap.xml

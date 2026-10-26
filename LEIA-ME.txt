@@ -2,7 +2,7 @@ PREMIUM CLEAN — NOVA VERSÃO COMPLETA
 
 PUBLICAR NO GITHUB PAGES
 1. Extraia o ZIP.
-2. Envie TODOS os arquivos da pasta extraída diretamente para a raiz do repositório premiumclean. Não é necessário criar pasta assets.
+2. Envie TODOS os arquivos da pasta extraída diretamente para a raiz do repositório premiumclean2. Não é necessário criar pasta assets.
 3. Substitua index.html. Os novos estilos e scripts têm nomes pc-styles.css e pc-script.js para evitar conflito com a versão anterior.
 4. Em Settings > Pages, use main / root.
 5. Aguarde o deploy concluir. Recarregue com Ctrl+F5.
@@ -17,7 +17,7 @@ Mantenha os nomes dos arquivos para trocar as imagens sem editar HTML. Comparaç
 
 CONFIGURAÇÃO
 WhatsApp e mensagens ficam no início de pc-script.js. Os links possuem destino funcional mesmo sem JavaScript. Não há anúncios, analytics ou pixels instalados. Um evento JavaScript premiumclean:whatsapp é emitido ao clicar, mas nenhuma ferramenta coleta dados por padrão. Cliques não representam conversas ou vendas.
-Canonical, Open Graph, JSON-LD, sitemap e URLs usam https://lorensatto.github.io/premiumclean/. Ao conectar domínio próprio, substitua essa base nos arquivos HTML e no sitemap.xml/robots.txt. O robots.txt só é lido pelo Google na raiz do domínio; no GitHub Pages de projeto, envie o sitemap diretamente ao Search Console.
+Canonical, Open Graph, JSON-LD, sitemap e URLs usam https://lorensatto.github.io/premiumclean2/. Ao conectar domínio próprio, substitua essa base nos arquivos HTML e no sitemap.xml/robots.txt. O robots.txt só é lido pelo Google na raiz do domínio; no GitHub Pages de projeto, envie o sitemap diretamente ao Search Console.
 
 PÁGINAS
 Inicial; sofá; impermeabilização; colchões; cadeiras e poltronas; tapetes; cortinas; ar-condicionado; privacidade; 404.
@@ -29,4 +29,9 @@ A fonte e as mídias ficam no próprio pacote. Apenas o mapa depende de carregam
 
 No celular, a hero mostra uma foto responsiva e a prévia animada é iniciada ao tocar no controle. No desktop, toca automaticamente quando permitido. Os vídeos são pausados fora da área visível.
 
-Incluímos a licença da fonte Manrope e o registro dos prompts das novas imagens ilustrativas. A marca tipográfica da apresentação é provisória e pode ser substituída pelo logotipo oficial.
+Incluímos a licença da fonte Manrope e o registro dos prompts das novas imagens ilustrativas. A logo oficial fornecida está aplicada no cabeçalho, rodapé e favicon. Os retratos e nomes dos depoimentos são fictícios e identificados como tal.
+
+REVISÃO SOLICITADA
+Novo telefone: (51) 99227-1769. Todos os botões de orçamento abrem o WhatsApp com a mensagem de higienização; os relacionados à impermeabilização usam a mensagem específica de impermeabilização. Os quatro cards principais levam diretamente ao WhatsApp. As páginas de serviços continuam acessíveis na pequena faixa abaixo dos cards e no rodapé.
+
+O link de avaliações do Google abre uma busca pelo nome da empresa em Porto Alegre. Quando disponível, substitua pelo link direto do Perfil da Empresa. Não foi inventada nota média nem quantidade de avaliações.

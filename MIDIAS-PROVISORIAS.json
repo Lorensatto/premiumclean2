@@ -10,5 +10,17 @@
     "Use case photorealistic-natural. Website demonstration placeholder: two-panel before-and-after diptych, total image 2:1 aspect ratio. Two equal square panels, EXACT SAME close three-quarter photo of a single upholstered light grey dining chair beside a dining table in a bright Brazilian apartment. Left chair has an obvious brown coffee stain and realistic dirt on seat, right same chair clean, fabric still same color and texture. Identical camera lighting composition and background. Attractive cool white and blue surroundings, photo real textiles, no text no logos no border no watermark, seam exactly center. Same chair same furniture across panels.",
     "Use case photorealistic-natural. Website demonstration placeholder: two-panel before-and-after diptych, total image 2:1 aspect ratio. Two equal square panels, EXACT SAME three-quarter photo of a light taupe upholstered comfortable armchair in a bright Brazilian apartment. Left armchair realistic dark grime along both arms and seat, right same armchair thoroughly cleaned with same taupe textile texture restored. Identical lighting camera setting furniture and framing. Natural daylight, restrained blue accents, no text no labels no watermark no borders, seam exactly center. Same armchair across panels."
   ],
-  "notes": "Imagens sintéticas ilustrativas. MP4 produzidos por animação de imagens estáticas para prévia. Não são filmagens nem resultados de clientes reais."
+  "notes": "Imagens sintéticas ilustrativas. MP4 produzidos por animação de imagens estáticas para prévia. Não são filmagens nem resultados de clientes reais.",
+  "fictional_avatars": {
+    "source": "image_gen",
+    "files": [
+      "pc-cliente-1.webp",
+      "pc-cliente-2.webp",
+      "pc-cliente-3.webp",
+      "pc-cliente-4.webp",
+      "pc-cliente-5.webp",
+      "pc-cliente-6.webp"
+    ],
+    "note": "Retratos sintéticos e nomes fictícios, identificados no site. Não representam clientes reais."
+  }
 }
